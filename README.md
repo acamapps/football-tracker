@@ -1,5 +1,5 @@
 # UK Free-To-Air Football Schedule
-_Last updated: 17 September 2026, 19:05 UTC_
+_Last updated: 17 September 2026, 19:08 UTC_
 
 - **19:30**: Bayern Munich v Union Berlin (Bundesliga) — *BBC iPlayerBundesliga YouTubeBBC Sport Website*
 - **19:30**: Queen's Park v Ayr United (Scottish Championship) — *BBC ScotlandBBC iPlayerBBC Sport Website*
@@ -8,6 +8,7 @@ _Last updated: 17 September 2026, 19:05 UTC_
 - **19:45**: Dundalk v Shelbourne (League of Ireland Premier Division) — *LOITV*
 - **20:00**: Bohemians v Drogheda United (League of Ireland Premier Division) — *LOITV*
 - **20:00**: Shamrock Rovers v Waterford (League of Ireland Premier Division) — *LOITV*
+- **12:30**: Millwall v West Ham United (Championship) — *ITV1STVSky Sports Main EventSky Sports FootballSky Sports Ultra HDRITVXSTV Player*
 - **12:30**: Redcar Town v Darlington (FA Cup Second Qualifying Round) — *BBC Red ButtonBBC iPlayerBBC Football YouTubeBBC Sport Website*
 - **12:30**: Charlton Athletic Women v London City Lionesses (Women's Super League) — *BBC OneBBC One NIBBC iPlayerWSL YouTubeBBC Sport Website*
 - **17:30**: The New Saints v Llandudno (Cymru Premier) — *BBC iPlayerCymru Football TVBBC Sport Website*
@@ -47,6 +48,7 @@ _Last updated: 17 September 2026, 19:05 UTC_
 - **20:00**: Shamrock Rovers v Drogheda United (League of Ireland Premier Division) — *LOITV*
 - **17:15**: Flint Town United v Colwyn Bay (Cymru Premier) — *BBC iPlayerS4C OnlineCymru Football TVBBC Sport Website*
 - **18:00**: Dungannon Swifts v Carrick Rangers (Northern Irish Premiership) — *BBC iPlayerBBC Sport Website*
+- **12:00**: Southampton v Portsmouth (Championship) — *ITV1STVSky Sports Main EventSky Sports FootballSky Sports Ultra HDRITVXSTV Player*
 - **TBC**: England Women v Greece Women (FIFA Women's World Cup 2027 Play-Off 2nd Leg) — *ITV TBC*
 - **TBC**: Portugal Women v Northern Ireland Women (FIFA Women's World Cup 2027 Play-Off 2nd Leg) — *BBC iPlayerBBC Sport Website*
 - **TBC**: Wales Women v Albania Women (FIFA Women's World Cup 2027 Play-Off 2nd Leg) — *BBC TBCBBC iPlayerBBC Sport Website*
@@ -89,11 +91,13 @@ _Last updated: 17 September 2026, 19:05 UTC_
 - **19:45**: Wales v Portugal (UEFA Nations League Group Stage) — *BBC TBCS4CBBC iPlayerS4C OnlineBBC Sport Website*
 - **19:30**: Bayern Munich v FC KÃ¶ln (Bundesliga) — *BBC iPlayerBBC Sport Website*
 - **19:45**: Cliftonville v Glentoran (Northern Irish Premiership) — *BBC iPlayerBBC Sport Website*
+- **12:00**: Burnley v Blackburn Rovers (Championship) — *ITV1STVSky Sports Main EventSky Sports FootballSky Sports Ultra HDRITVXSTV Player*
 - **19:30**: Werder Bremen v Borussia MÃ¶nchengladbach (Bundesliga) — *BBC iPlayerBBC Sport Website*
 - **19:45**: Glentoran v Larne (Northern Irish Premiership) — *BBC iPlayerBBC Sport Website*
 - **17:15**: Holywell Town v Llandudno (Cymru Premier) — *BBC iPlayerS4C OnlineCymru Football TVBBC Sport Website*
 - **19:45**: Limavady United v Coleraine (Northern Irish Premiership) — *BBC iPlayerBBC Sport Website*
 - **19:45**: Bangor v Linfield (Northern Irish Premiership) — *BBC iPlayerBBC Sport Website*
+- **12:30**: Birmingham City v West Ham United (Championship) — *ITV1STVSky Sports FootballITVXSTV Player*
 - **12:45**: Cambrian United v Haverfordwest County (Cymru Premier) — *BBC iPlayerS4C OnlineCymru Football TVBBC Sport Website*
 - **18:00**: Linfield v Cliftonville (Northern Irish Premiership) — *BBC iPlayerBBC Sport Website*
 - **12:45**: Trefelin BGC v Briton Ferry (Cymru Premier) — *BBC iPlayerS4C OnlineCymru Football TVBBC Sport Website*
