@@ -1,397 +1,102 @@
-# Free Football Matches UK - 2026-09-17
+# UK Free-To-Air Football Schedule
+_Last updated: 17 September 2026, 19:05 UTC_
 
-- **17:30**: Greuther Furth v FC Magdeburg (*Bundesliga AppBundesliga YouTube*)
-- **17:30**: Wolfsburg v Darmstadt (*Bundesliga AppBundesliga YouTube*)
-- **19:00**: Manchester City Women v Liverpool Women (*Sky Sports Main EventSky Sports Ultra HDRSky Sports+WSL YouTube*)
-- **19:30**: Bayern Munich v Union Berlin (*BBC iPlayerBundesliga YouTubeBBC Sport Website*)
-- **19:30**: Queen's Park v Ayr United (*BBC ScotlandBBC iPlayerBBC Sport Website*)
-- **19:30**: Wolves Women v Burnley Women (*WSL2 YouTube*)
-- **19:45**: Ammanford AFC v Penybont (*BBC iPlayerS4C OnlineCymru Football TVBBC Sport Website*)
-- **19:45**: Derry City v Galway United (*BBC iPlayerLOITVBBC Sport Website*)
-- **19:45**: Dundalk v Shelbourne (*LOITV*)
-- **20:00**: Bohemians v Drogheda United (*LOITV*)
-- **20:00**: Shamrock Rovers v Waterford (*LOITV*)
-- **11:00**: FC Tokyo v Grampus Eight (*J League International YouTube*)
-- **11:00**: FC KÃ¶ln U19 v Wolfsburg U19 (*DFB PlayGerman Football YouTube*)
-- **12:00**: Holstein Kiel v VFL Osnabruck (*Bundesliga AppBundesliga YouTube*)
-- **12:00**: Kaiserslautern v Eintracht Braunschweig (*Bundesliga AppBundesliga YouTube*)
-- **12:00**: Karlsruher v FC NÃ¼rnberg (*Bundesliga AppBundesliga YouTube*)
-- **12:30**: Millwall v West Ham United (*ITV1STVSky Sports Main EventSky Sports FootballSky Sports Ultra HDRITVXSTV Player*)
-- **12:30**: Redcar Town v Darlington (*BBC Red ButtonBBC iPlayerBBC Football YouTubeBBC Sport Website*)
-- **12:30**: Charlton Athletic Women v London City Lionesses (*BBC OneBBC One NIBBC iPlayerWSL YouTubeBBC Sport Website*)
-- **12:45**: Chelsea Women v Birmingham City Women (*Sky Sports Premier LeagueWSL YouTube*)
-- **13:00**: Alemannia Aachen v Fortuna Dusseldorf (*DFB PlayGerman Football YouTube*)
-- **17:30**: The New Saints v Llandudno (*BBC iPlayerCymru Football TVBBC Sport Website*)
-- **17:30**: Arsenal Women v Manchester United Women (*Sky Sports FootballSky OneWSL YouTube*)
-- **19:30**: Dynamo Dresden v Hertha Berlin (*Bundesliga AppBundesliga YouTube*)
-- **19:45**: Sligo Rovers v St Patrick's Athletic (*LOITV*)
-- **09:00**: Gamba Osaka v Vissel Kobe (*J League International YouTube*)
-- **12:00**: Durham Women v Nottingham Forest Women (*WSL2 YouTube*)
-- **12:30**: Arminia Bielefeld v Heidenheim (*Bundesliga AppBundesliga YouTube*)
-- **12:30**: Energie Cottbus v St Pauli (*Bundesliga AppBundesliga YouTube*)
-- **12:30**: Hannover 96 v VFL Bochum (*Bundesliga AppBundesliga YouTube*)
-- **14:00**: Brighton & Hove Albion Women v Aston Villa Women (*Sky Sports+WSL YouTube*)
-- **14:00**: Crystal Palace Women v Tottenham Hotspur Women (*Sky Sports WSL YouTubeSky Sports+WSL YouTube*)
-- **14:00**: West Ham United Women v Everton Women (*Sky Sports WSL YouTubeSky Sports+WSL YouTube*)
-- **14:00**: Newcastle United Women v Sheffield United Women (*WSL2 YouTube*)
-- **14:00**: Sunderland AFC Women v Southampton Women (*WSL2 YouTube*)
-- **14:00**: Watford Women v Bristol City Women (*WSL2 YouTube*)
-- **15:00**: Leicester City Women v Ipswich Town Women (*WSL2 YouTube*)
-- **16:10**: Rangers Women v Aberdeen Women (*BBC AlbaBBC iPlayerBBC Sport Website*)
-- **19:45**: Portugal v Wales (*BBC TBCS4CBBC iPlayerS4C OnlineBBC Sport Website*)
-- **17:00**: Georgia v Northern Ireland (*BBC TBCBBC iPlayerBBC Sport Website*)
-- **19:45**: Galway United v Shelbourne (*LOITV*)
-- **12:00**: Burnley Women v Bristol City Women (*WSL2 YouTube*)
-- **13:30**: Charlton Athletic Women v Manchester City Women (*BBC iPlayerBBC Sport Website*)
-- **14:00**: Slovenia v Scotland (*BBC TBCBBC iPlayerBBC Sport Website*)
-- **19:45**: England v Spain (*ITV1STVITVXSTV Player*)
-- **14:00**: Ipswich Town Women v Wolves Women (*WSL2 YouTube*)
-- **14:00**: Newcastle United Women v Leicester City Women (*WSL2 YouTube*)
-- **14:00**: Sheffield United Women v Durham Women (*WSL2 YouTube*)
-- **14:00**: Southampton Women v Nottingham Forest Women (*WSL2 YouTube*)
-- **14:00**: Watford Women v Sunderland AFC Women (*WSL2 YouTube*)
-- **16:10**: Hearts Women v Glasgow City (*BBC AlbaBBC iPlayerBBC Sport Website*)
-- **17:00**: Denmark v Wales (*BBC TBCS4CBBC iPlayerS4C OnlineBBC Sport Website*)
-- **19:45**: Northern Ireland v Hungary (*BBC TBCBBC iPlayerBBC Sport Website*)
-- **19:45**: Czech Republic v England (*ITV1STVITVXSTV Player*)
-- **19:45**: Scotland v Switzerland (*BBC TBCBBC iPlayerBBC Sport Website*)
-- **19:45**: Wales v Norway (*BBC TBCS4CBBC iPlayerS4C OnlineBBC Sport Website*)
-- **19:45**: Ukraine v Northern Ireland (*BBC TBCBBC iPlayerBBC Sport Website*)
-- **13:30**: Manchester United Women v Liverpool Women (*BBC OneBBC iPlayerBBC Sport Website*)
-- **17:00**: Croatia v England (*ITV1STVITVXSTV Player*)
-- **17:30**: Hamilton Academical v Peterhead (*BBC AlbaBBC iPlayerBBC Sport Website*)
-- **19:45**: North Macedonia v Scotland (*BBC TBCBBC iPlayerBBC Sport Website*)
-- **TBC**: Partick Thistle Women v Rangers Women (*BBC iPlayerBBC Sport Website*)
-- **12:00**: Durham Women v Newcastle United Women (*WSL2 YouTube*)
-- **14:00**: Bristol City Women v Southampton Women (*WSL2 YouTube*)
-- **14:00**: Nottingham Forest Women v Burnley Women (*WSL2 YouTube*)
-- **14:00**: Sheffield United Women v Ipswich Town Women (*WSL2 YouTube*)
-- **14:00**: Sunderland AFC Women v Leicester City Women (*WSL2 YouTube*)
-- **14:00**: Wolves Women v Watford Women (*WSL2 YouTube*)
-- **14:10**: Hibernian Women v Hearts Women (*BBC AlbaBBC iPlayerBBC Sport Website*)
-- **19:45**: Wales v Denmark (*BBC TBCS4CBBC iPlayerS4C OnlineBBC Sport Website*)
-- **19:45**: Northern Ireland v Georgia (*BBC TBCBBC iPlayerBBC Sport Website*)
-- **19:45**: England v Czech Republic (*ITV1STVITVXSTV Player*)
-- **19:45**: Scotland v Slovenia (*BBC TBCBBC iPlayerBBC Sport Website*)
-- **TBC**: Albania Women v Wales Women (*BBC TBCBBC iPlayerBBC Sport Website*)
-- **TBC**: Greece Women v England Women (*ITV TBC*)
-- **TBC**: Northern Ireland Women v Portugal Women (*BBC iPlayerBBC Sport Website*)
-- **17:30**: Eintracht Braunschweig v Holstein Kiel (*Bundesliga AppBundesliga YouTube*)
-- **17:30**: Heidenheim v Kaiserslautern (*Bundesliga AppBundesliga YouTube*)
-- **19:30**: Borussia Dortmund v Werder Bremen (*BBC iPlayerBBC Sport Website*)
-- **19:45**: Derry City v St Patrick's Athletic (*BBC iPlayerLOITVBBC Sport Website*)
-- **19:45**: Dundalk v Bohemians (*LOITV*)
-- **19:45**: Shelbourne v Sligo Rovers (*LOITV*)
-- **19:45**: Waterford v Galway United (*LOITV*)
-- **20:00**: Shamrock Rovers v Drogheda United (*LOITV*)
-- **12:00**: Darmstadt v Energie Cottbus (*Bundesliga AppBundesliga YouTube*)
-- **12:00**: FC Magdeburg v Hannover 96 (*Bundesliga AppBundesliga YouTube*)
-- **12:00**: VFL Osnabruck v Dynamo Dresden (*Bundesliga AppBundesliga YouTube*)
-- **17:15**: Flint Town United v Colwyn Bay (*BBC iPlayerS4C OnlineCymru Football TVBBC Sport Website*)
-- **18:00**: Dungannon Swifts v Carrick Rangers (*BBC iPlayerBBC Sport Website*)
-- **19:30**: FC NÃ¼rnberg v Wolfsburg (*Bundesliga AppBundesliga YouTube*)
-- **12:00**: Southampton v Portsmouth (*ITV1STVSky Sports Main EventSky Sports FootballSky Sports Ultra HDRITVXSTV Player*)
-- **12:30**: Hertha Berlin v Greuther Furth (*Bundesliga AppBundesliga YouTube*)
-- **12:30**: St Pauli v Karlsruher (*Bundesliga AppBundesliga YouTube*)
-- **12:30**: VFL Bochum v Arminia Bielefeld (*Bundesliga AppBundesliga YouTube*)
-- **14:45**: Pakhtakor v Al-Qadisiyah (*The AFC Hub YouTube*)
-- **17:00**: Al Wasl v Al-Ahli Saudi (*The AFC Hub YouTube*)
-- **17:00**: Tractor v Al-Shamal (*The AFC Hub YouTube*)
-- **19:15**: Al Gharafa v Esteghlal (*The AFC Hub YouTube*)
-- **19:15**: Al-Nassr v Neftchi Fergana (*The AFC Hub YouTube*)
-- **19:15**: Al-Quwa Al-Jawiya v Al Ain (*The AFC Hub YouTube*)
-- **TBC**: England Women v Greece Women (*ITV TBC*)
-- **TBC**: Portugal Women v Northern Ireland Women (*BBC iPlayerBBC Sport Website*)
-- **TBC**: Wales Women v Albania Women (*BBC TBCBBC iPlayerBBC Sport Website*)
-- **08:45**: Newcastle Jets v Gamba Osaka (*The AFC Hub YouTube*)
-- **11:00**: Kyoto Sanga v Ratchaburi (*The AFC Hub YouTube*)
-- **11:00**: Pohang Steelers v Johor Darul Ta'zim (*The AFC Hub YouTube*)
-- **11:00**: Shanghai Port v Daejeon Hana (*The AFC Hub YouTube*)
-- **13:15**: Buriram United v Beijing Guoan (*The AFC Hub YouTube*)
-- **13:15**: CAHN v Kashima Antlers (*The AFC Hub YouTube*)
-- **14:45**: East Bengal v Al-Shorta (*The AFC Hub YouTube*)
-- **17:00**: Al Sadd v Al-Hilal (*The AFC Hub YouTube*)
-- **17:00**: Al-Seeb v Al Hussein (*The AFC Hub YouTube*)
-- **19:15**: Al-Ittihad v Shabab Al Ahli (*The AFC Hub YouTube*)
-- **08:45**: Melbourne Victory v FC Seoul (*The AFC Hub YouTube*)
-- **11:00**: Kashiwa Reysol v Port FC (*The AFC Hub YouTube*)
-- **11:00**: Vissel Kobe v Jeonbuk Hyundai Motors (*The AFC Hub YouTube*)
-- **12:15**: Persib v The Cong (*The AFC Hub YouTube*)
-- **14:45**: Nasaf v Al Wahda (*The AFC Hub YouTube*)
-- **17:00**: Al Jazira v Arkadag (*The AFC Hub YouTube*)
-- **17:00**: Al-Taawoun v Al Rayyan (*The AFC Hub YouTube*)
-- **17:00**: Muharraq v Gol Gohar (*The AFC Hub YouTube*)
-- **19:15**: Al-Faisaly v Al-Nahda (*The AFC Hub YouTube*)
-- **19:15**: Kuwait v Khalidiya (*The AFC Hub YouTube*)
-- **11:00**: Gangwon v Phnom Penh Crown (*The AFC Hub YouTube*)
-- **11:00**: Tai Po v LCS (*The AFC Hub YouTube*)
-- **13:15**: BG Pathum United v Adelaide United (*The AFC Hub YouTube*)
-- **13:15**: Kuching v Kitchee FC (*The AFC Hub YouTube*)
-- **13:15**: Svay Rieng v Shanghai Shenhua (*The AFC Hub YouTube*)
-- **13:15**: Tampines Rovers v FC Machida Zelvia (*The AFC Hub YouTube*)
-- **17:30**: Energie Cottbus v FC NÃ¼rnberg (*Bundesliga AppBundesliga YouTube*)
-- **17:30**: Holstein Kiel v Hertha Berlin (*Bundesliga AppBundesliga YouTube*)
-- **19:30**: Eintracht Frankfurt v FC KÃ¶ln (*BBC iPlayerBBC Sport Website*)
-- **19:30**: Ayr United v Partick Thistle (*BBC ScotlandBBC iPlayerBBC Sport Website*)
-- **19:45**: Bohemians v Waterford (*LOITV*)
-- **19:45**: Drogheda United v Derry City (*LOITV*)
-- **19:45**: Galway United v Shamrock Rovers (*LOITV*)
-- **19:45**: St Patrick's Athletic v Shelbourne (*LOITV*)
-- **19:45**: Larne v Coleraine (*BBC iPlayerBBC Sport Website*)
-- **12:00**: Greuther Furth v Eintracht Braunschweig (*Bundesliga AppBundesliga YouTube*)
-- **12:00**: Kaiserslautern v VFL Bochum (*Bundesliga AppBundesliga YouTube*)
-- **12:00**: Wolfsburg v Heidenheim (*Bundesliga AppBundesliga YouTube*)
-- **19:30**: Hannover 96 v St Pauli (*Bundesliga AppBundesliga YouTube*)
-- **19:45**: Sligo Rovers v Dundalk (*LOITV*)
-- **12:30**: Arminia Bielefeld v VFL Osnabruck (*Bundesliga AppBundesliga YouTube*)
-- **12:30**: Dynamo Dresden v FC Magdeburg (*Bundesliga AppBundesliga YouTube*)
-- **12:30**: Karlsruher v Darmstadt (*Bundesliga AppBundesliga YouTube*)
-- **14:00**: Aston Villa Women v Liverpool Women (*Sky Sports+WSL YouTube*)
-- **14:00**: London City Lionesses v Everton Women (*Sky Sports+WSL YouTube*)
-- **14:30**: Manchester City Women v Brighton & Hove Albion Women (*BBC TwoBBC iPlayerBBC Sport Website*)
-- **17:30**: Darmstadt v St Pauli (*Bundesliga AppBundesliga YouTube*)
-- **17:30**: VFL Bochum v Wolfsburg (*Bundesliga AppBundesliga YouTube*)
-- **19:30**: VfB Stuttgart v Borussia MÃ¶nchengladbach (*BBC iPlayerBBC Sport Website*)
-- **19:45**: Bohemians v Shelbourne (*LOITV*)
-- **19:45**: Derry City v Dundalk (*BBC iPlayerLOITVBBC Sport Website*)
-- **19:45**: Galway United v St Patrick's Athletic (*LOITV*)
-- **19:45**: Waterford v Drogheda United (*LOITV*)
-- **19:45**: Portadown v Linfield (*BBC iPlayerBBC Sport Website*)
-- **20:00**: Shamrock Rovers v Sligo Rovers (*LOITV*)
-- **12:00**: FC Magdeburg v Karlsruher (*Bundesliga AppBundesliga YouTube*)
-- **12:00**: Heidenheim v Energie Cottbus (*Bundesliga AppBundesliga YouTube*)
-- **12:00**: Hertha Berlin v Arminia Bielefeld (*Bundesliga AppBundesliga YouTube*)
-- **12:45**: Tottenham Hotspur Women v Arsenal Women (*BBC OneBBC iPlayerBBC Sport Website*)
-- **17:15**: Barry Town United v Haverfordwest County (*BBC iPlayerS4C OnlineCymru Football TVBBC Sport Website*)
-- **19:30**: FC NÃ¼rnberg v Kaiserslautern (*Bundesliga AppBundesliga YouTube*)
-- **11:30**: Eintracht Braunschweig v Hannover 96 (*Bundesliga AppBundesliga YouTube*)
-- **11:30**: VFL Osnabruck v Greuther Furth (*Bundesliga AppBundesliga YouTube*)
-- **12:00**: Watford Women v Durham Women (*WSL2 YouTube*)
-- **12:30**: Holstein Kiel v Dynamo Dresden (*Bundesliga AppBundesliga YouTube*)
-- **14:00**: Birmingham City Women v Charlton Athletic Women (*Sky Sports+WSL YouTube*)
-- **14:00**: Everton Women v Aston Villa Women (*Sky Sports+WSL YouTube*)
-- **14:00**: Liverpool Women v London City Lionesses (*Sky Sports MixWSL YouTube*)
-- **14:00**: Bristol City Women v Wolves Women (*WSL2 YouTube*)
-- **14:00**: Burnley Women v Sheffield United Women (*WSL2 YouTube*)
-- **14:00**: Ipswich Town Women v Sunderland AFC Women (*WSL2 YouTube*)
-- **14:00**: Nottingham Forest Women v Newcastle United Women (*WSL2 YouTube*)
-- **15:00**: Leicester City Women v Southampton Women (*WSL2 YouTube*)
-- **13:45**: Neftchi Fergana v Al-Ittihad (*The AFC Hub YouTube*)
-- **16:00**: Al Ain v Tractor (*The AFC Hub YouTube*)
-- **16:00**: Al-Ahli Saudi v Al Gharafa (*The AFC Hub YouTube*)
-- **18:15**: Al-Nassr v Al Wasl (*The AFC Hub YouTube*)
-- **18:15**: Al-Qadisiyah v Al Sadd (*The AFC Hub YouTube*)
-- **18:15**: Al-Quwa Al-Jawiya v Pakhtakor (*The AFC Hub YouTube*)
-- **10:00**: Daejeon Hana v Vissel Kobe (*The AFC Hub YouTube*)
-- **10:00**: Johor Darul Ta'zim v Port FC (*The AFC Hub YouTube*)
-- **10:00**: Kyoto Sanga v Newcastle Jets (*The AFC Hub YouTube*)
-- **10:00**: Shanghai Port v CAHN (*The AFC Hub YouTube*)
-- **12:15**: Beijing Guoan v Jeonbuk Hyundai Motors (*The AFC Hub YouTube*)
-- **12:15**: Ratchaburi v Kashiwa Reysol (*The AFC Hub YouTube*)
-- **16:00**: Shabab Al Ahli v Esteghlal (*The AFC Hub YouTube*)
-- **16:00**: Al-Seeb v East Bengal (*The AFC Hub YouTube*)
-- **18:15**: Al-Shamal v Al-Hilal (*The AFC Hub YouTube*)
-- **18:15**: Al-Shorta v Al Hussein (*The AFC Hub YouTube*)
-- **10:00**: Gamba Osaka v Buriram United (*The AFC Hub YouTube*)
-- **10:00**: Kashima Antlers v Pohang Steelers (*The AFC Hub YouTube*)
-- **11:15**: Persib v Melbourne Victory (*The AFC Hub YouTube*)
-- **12:15**: The Cong v FC Seoul (*The AFC Hub YouTube*)
-- **13:45**: Gol Gohar v Arkadag (*The AFC Hub YouTube*)
-- **13:45**: Nasaf v Kuwait SC (*The AFC Hub YouTube*)
-- **16:00**: Al Jazira v Muharraq (*The AFC Hub YouTube*)
-- **16:00**: Al-Nahda v Al Rayyan (*The AFC Hub YouTube*)
-- **18:15**: Al-Faisaly v Al-Taawoun (*The AFC Hub YouTube*)
-- **18:15**: Khalidiya v Al Wahda (*The AFC Hub YouTube*)
-- **07:45**: Adelaide United v LCS (*The AFC Hub YouTube*)
-- **10:00**: Gangwon v Kuching (*The AFC Hub YouTube*)
-- **10:00**: Tampines Rovers v Svay Rieng (*The AFC Hub YouTube*)
-- **12:15**: Phnom Penh Crown v Kitchee FC (*The AFC Hub YouTube*)
-- **12:15**: Shanghai Shenhua v FC Machida Zelvia (*The AFC Hub YouTube*)
-- **12:15**: Tai Po v BG Pathum United (*The AFC Hub YouTube*)
-- **17:30**: Arminia Bielefeld v Eintracht Braunschweig (*Bundesliga AppBundesliga YouTube*)
-- **17:30**: Energie Cottbus v VFL Bochum (*Bundesliga AppBundesliga YouTube*)
-- **19:30**: SV Elversberg v Mainz (*BBC iPlayerBBC Sport Website*)
-- **19:45**: Drogheda United v Galway United (*LOITV*)
-- **19:45**: Dundalk v Shamrock Rovers (*LOITV*)
-- **19:45**: Shelbourne v Waterford (*LOITV*)
-- **19:45**: Sligo Rovers v Derry City (*LOITV*)
-- **19:45**: St Patrick's Athletic v Bohemians (*LOITV*)
-- **19:45**: Coleraine v Glentoran (*BBC iPlayerBBC Sport Website*)
-- **12:00**: Darmstadt v FC Magdeburg (*Bundesliga AppBundesliga YouTube*)
-- **12:00**: Kaiserslautern v Hertha Berlin (*Bundesliga AppBundesliga YouTube*)
-- **12:00**: Wolfsburg v VFL Osnabruck (*Bundesliga AppBundesliga YouTube*)
-- **17:15**: The New Saints v Connah's Quay Nomads (*BBC iPlayerS4C OnlineCymru Football TVBBC Sport Website*)
-- **19:30**: Karlsruher v Heidenheim (*Bundesliga AppBundesliga YouTube*)
-- **12:30**: Greuther Furth v Holstein Kiel (*Bundesliga AppBundesliga YouTube*)
-- **12:30**: Hannover 96 v Dynamo Dresden (*Bundesliga AppBundesliga YouTube*)
-- **12:30**: St Pauli v FC NÃ¼rnberg (*Bundesliga AppBundesliga YouTube*)
-- **14:00**: Birmingham City Women v Tottenham Hotspur Women (*Sky Sports+WSL YouTube*)
-- **14:00**: Brighton & Hove Albion Women v Crystal Palace Women (*Sky Sports+WSL YouTube*)
-- **14:00**: West Ham United Women v Liverpool Women (*Sky Sports+WSL YouTube*)
-- **14:30**: Charlton Athletic Women v Chelsea Women (*BBC TwoBBC iPlayerWSL YouTubeBBC Sport Website*)
-- **13:45**: Pakhtakor v Al-Nassr (*The AFC Hub YouTube*)
-- **16:00**: Al Sadd v Al-Ahli Saudi (*The AFC Hub YouTube*)
-- **16:00**: Al Wasl v Al-Quwa Al-Jawiya (*The AFC Hub YouTube*)
-- **16:00**: Tractor v Neftchi Fergana (*The AFC Hub YouTube*)
-- **18:15**: Al Gharafa v Al-Qadisiyah (*The AFC Hub YouTube*)
-- **18:15**: Al-Ittihad v Al Ain (*The AFC Hub YouTube*)
-- **10:00**: Jeonbuk Hyundai Motors v Johor Darul Ta'zim (*The AFC Hub YouTube*)
-- **10:00**: Kashiwa Reysol v Daejeon Hana (*The AFC Hub YouTube*)
-- **10:00**: Vissel Kobe v Ratchaburi (*The AFC Hub YouTube*)
-- **12:15**: CAHN v Kyoto Sanga (*The AFC Hub YouTube*)
-- **12:15**: Port FC v Beijing Guoan (*The AFC Hub YouTube*)
-- **13:45**: East Bengal v Al-Seeb (*The AFC Hub YouTube*)
-- **16:00**: Esteghlal v Al-Shamal (*The AFC Hub YouTube*)
-- **16:00**: Al Hussein v Al-Shorta (*The AFC Hub YouTube*)
-- **18:15**: Al-Hilal v Shabab Al Ahli (*The AFC Hub YouTube*)
-- **19:45**: Newcastle Jets v Shanghai Port (*The AFC Hub YouTube*)
-- **07:45**: Melbourne Victory v Persib (*The AFC Hub YouTube*)
-- **10:00**: Pohang Steelers v Gamba Osaka (*The AFC Hub YouTube*)
-- **10:00**: FC Seoul v The Cong (*The AFC Hub YouTube*)
-- **12:15**: Buriram United v Kashima Antlers (*The AFC Hub YouTube*)
-- **13:45**: Arkadag v Gol Gohar (*The AFC Hub YouTube*)
-- **16:00**: Al Rayyan v Al-Nahda (*The AFC Hub YouTube*)
-- **16:00**: Al Wahda v Khalidiya (*The AFC Hub YouTube*)
-- **16:00**: Kuwait v Nasaf (*The AFC Hub YouTube*)
-- **18:15**: Al-Taawoun v Al-Faisaly (*The AFC Hub YouTube*)
-- **18:15**: Muharraq v Al Jazira (*The AFC Hub YouTube*)
-- **10:00**: FC Machida Zelvia v Shanghai Shenhua (*The AFC Hub YouTube*)
-- **10:00**: Kitchee FC v Phnom Penh Crown (*The AFC Hub YouTube*)
-- **10:00**: LCS v Adelaide United (*The AFC Hub YouTube*)
-- **12:15**: BG Pathum United v Tai Po (*The AFC Hub YouTube*)
-- **12:15**: Kuching v Gangwon (*The AFC Hub YouTube*)
-- **12:15**: Svay Rieng v Tampines Rovers (*The AFC Hub YouTube*)
-- **17:30**: Dynamo Dresden v Greuther Furth (*Bundesliga AppBundesliga YouTube*)
-- **17:30**: Eintracht Braunschweig v Energie Cottbus (*Bundesliga AppBundesliga YouTube*)
-- **19:30**: Hamburg v Borussia MÃ¶nchengladbach (*BBC iPlayerBBC Sport Website*)
-- **12:00**: FC NÃ¼rnberg v Darmstadt (*Bundesliga AppBundesliga YouTube*)
-- **12:00**: Holstein Kiel v Arminia Bielefeld (*Bundesliga AppBundesliga YouTube*)
-- **12:00**: VFL Osnabruck v Kaiserslautern (*Bundesliga AppBundesliga YouTube*)
-- **18:00**: Linfield v Coleraine (*BBC iPlayerBBC Sport Website*)
-- **19:30**: Hertha Berlin v Wolfsburg (*Bundesliga AppBundesliga YouTube*)
-- **12:00**: Durham Women v Sunderland AFC Women (*WSL2 YouTube*)
-- **12:30**: FC Magdeburg v St Pauli (*Bundesliga AppBundesliga YouTube*)
-- **12:30**: Heidenheim v Hannover 96 (*Bundesliga AppBundesliga YouTube*)
-- **12:30**: VFL Bochum v Karlsruher (*Bundesliga AppBundesliga YouTube*)
-- **14:00**: Ipswich Town Women v Bristol City Women (*WSL2 YouTube*)
-- **14:00**: Newcastle United Women v Burnley Women (*WSL2 YouTube*)
-- **14:00**: Southampton Women v Sheffield United Women (*WSL2 YouTube*)
-- **14:00**: Wolves Women v Nottingham Forest Women (*WSL2 YouTube*)
-- **15:00**: Leicester City Women v Watford Women (*WSL2 YouTube*)
-- **19:45**: England v Croatia (*ITV1STVITVXSTV Player*)
-- **19:45**: Scotland v North Macedonia (*BBC TBCBBC iPlayerBBC Sport Website*)
-- **17:00**: Norway v Wales (*BBC TBCS4CBBC iPlayerS4C OnlineBBC Sport Website*)
-- **18:00**: Sheffield United Women v Bristol City Women (*WSL2 YouTube*)
-- **19:45**: Northern Ireland v Ukraine (*BBC TBCBBC iPlayerBBC Sport Website*)
-- **14:00**: Burnley v Southampton (*WSL2 YouTube*)
-- **14:00**: Nottingham Forest Women v Leicester City Women (*WSL2 YouTube*)
-- **14:00**: Sunderland AFC Women v Newcastle United Women (*WSL2 YouTube*)
-- **14:00**: Watford Women v Ipswich Town Women (*WSL2 YouTube*)
-- **14:00**: Wolves Women v Durham Women (*WSL2 YouTube*)
-- **19:45**: Spain v England (*ITV1STVITVXSTV Player*)
-- **19:45**: Switzerland v Scotland (*BBC TBCBBC iPlayerBBC Sport Website*)
-- **19:45**: Hungary v Northern Ireland (*BBC TBCBBC iPlayerBBC Sport Website*)
-- **19:45**: Wales v Portugal (*BBC TBCS4CBBC iPlayerS4C OnlineBBC Sport Website*)
-- **17:30**: Arminia Bielefeld v FC Magdeburg (*Bundesliga AppBundesliga YouTube*)
-- **17:30**: Darmstadt v Heidenheim (*Bundesliga AppBundesliga YouTube*)
-- **19:30**: Bayern Munich v FC KÃ¶ln (*BBC iPlayerBBC Sport Website*)
-- **19:45**: Cliftonville v Glentoran (*BBC iPlayerBBC Sport Website*)
-- **12:00**: FC NÃ¼rnberg v Eintracht Braunschweig (*Bundesliga AppBundesliga YouTube*)
-- **12:00**: Hannover 96 v Greuther Furth (*Bundesliga AppBundesliga YouTube*)
-- **12:00**: Wolfsburg v Holstein Kiel (*Bundesliga AppBundesliga YouTube*)
-- **19:30**: St Pauli v VFL Bochum (*Bundesliga AppBundesliga YouTube*)
-- **12:00**: Burnley v Blackburn Rovers (*ITV1STVSky Sports Main EventSky Sports FootballSky Sports Ultra HDRITVXSTV Player*)
-- **12:30**: Energie Cottbus v Hertha Berlin (*Bundesliga AppBundesliga YouTube*)
-- **12:30**: Kaiserslautern v Dynamo Dresden (*Bundesliga AppBundesliga YouTube*)
-- **12:30**: Karlsruher v VFL Osnabruck (*Bundesliga AppBundesliga YouTube*)
-- **13:45**: Neftchi Fergana v Al-Hilal (*The AFC Hub YouTube*)
-- **16:00**: Al Ain v Esteghlal (*The AFC Hub YouTube*)
-- **16:00**: Al-Shamal v Al-Ahli Saudi (*The AFC Hub YouTube*)
-- **16:00**: Tractor v Al Wasl (*The AFC Hub YouTube*)
-- **18:15**: Al-Ittihad v Pakhtakor (*The AFC Hub YouTube*)
-- **18:15**: Al-Quwa Al-Jawiya v Al Gharafa (*The AFC Hub YouTube*)
-- **07:45**: Newcastle Jets v Kashiwa Reysol (*The AFC Hub YouTube*)
-- **10:00**: Daejeon Hana v Beijing Guoan (*The AFC Hub YouTube*)
-- **10:00**: Kyoto Sanga v Pohang Steelers (*The AFC Hub YouTube*)
-- **12:15**: CAHN v Vissel Kobe (*The AFC Hub YouTube*)
-- **12:15**: Ratchaburi v Johor Darul Ta'zim (*The AFC Hub YouTube*)
-- **12:15**: Shanghai Port v Buriram United (*The AFC Hub YouTube*)
-- **13:45**: East Bengal v Al Hussein (*The AFC Hub YouTube*)
-- **16:00**: Shabab Al Ahli v Al-Qadisiyah (*The AFC Hub YouTube*)
-- **16:00**: Al-Seeb v Al-Shorta (*The AFC Hub YouTube*)
-- **18:15**: Al-Nassr v Al Sadd (*The AFC Hub YouTube*)
-- **07:45**: Melbourne Victory v The Cong (*The AFC Hub YouTube*)
-- **10:00**: Gamba Osaka v Port FC (*The AFC Hub YouTube*)
-- **10:00**: Kashima Antlers v Jeonbuk Hyundai Motors (*The AFC Hub YouTube*)
-- **11:15**: Persib v FC Seoul (*The AFC Hub YouTube*)
-- **13:45**: Nasaf v Khalidiya (*The AFC Hub YouTube*)
-- **16:00**: Al Jazira v Gol Gohar (*The AFC Hub YouTube*)
-- **16:00**: Al-Faisaly v Al Rayyan (*The AFC Hub YouTube*)
-- **16:00**: Muharraq v Arkadag (*The AFC Hub YouTube*)
-- **18:15**: Al-Taawoun v Al-Nahda (*The AFC Hub YouTube*)
-- **18:15**: Kuwait v Al Wahda (*The AFC Hub YouTube*)
-- **10:00**: Gangwon v Kitchee FC (*The AFC Hub YouTube*)
-- **10:00**: Kuching v Phnom Penh Crown (*The AFC Hub YouTube*)
-- **10:00**: Tampines Rovers v Shanghai Shenhua (*The AFC Hub YouTube*)
-- **12:15**: BG Pathum United v LCS (*The AFC Hub YouTube*)
-- **12:15**: Svay Rieng v FC Machida Zelvia (*The AFC Hub YouTube*)
-- **12:15**: Tai Po v Adelaide United (*The AFC Hub YouTube*)
-- **17:30**: Heidenheim v FC NÃ¼rnberg (*Bundesliga AppBundesliga YouTube*)
-- **17:30**: VFL Bochum v Darmstadt (*Bundesliga AppBundesliga YouTube*)
-- **19:30**: Werder Bremen v Borussia MÃ¶nchengladbach (*BBC iPlayerBBC Sport Website*)
-- **19:45**: Glentoran v Larne (*BBC iPlayerBBC Sport Website*)
-- **12:00**: Dynamo Dresden v St Pauli (*Bundesliga AppBundesliga YouTube*)
-- **12:00**: Hertha Berlin v Karlsruher (*Bundesliga AppBundesliga YouTube*)
-- **12:00**: Holstein Kiel v Kaiserslautern (*Bundesliga AppBundesliga YouTube*)
-- **17:15**: Holywell Town v Llandudno (*BBC iPlayerS4C OnlineCymru Football TVBBC Sport Website*)
-- **19:30**: VFL Osnabruck v Hannover 96 (*Bundesliga AppBundesliga YouTube*)
-- **12:30**: Eintracht Braunschweig v Wolfsburg (*Bundesliga AppBundesliga YouTube*)
-- **12:30**: FC Magdeburg v Energie Cottbus (*Bundesliga AppBundesliga YouTube*)
-- **12:30**: Greuther Furth v Arminia Bielefeld (*Bundesliga AppBundesliga YouTube*)
-- **10:00**: Kashiwa Reysol v CAHN (*The AFC Hub YouTube*)
-- **10:00**: Pohang Steelers v Shanghai Port (*The AFC Hub YouTube*)
-- **10:00**: Vissel Kobe v Newcastle Jets (*The AFC Hub YouTube*)
-- **12:15**: Beijing Guoan v Ratchaburi (*The AFC Hub YouTube*)
-- **12:15**: Buriram United v Kyoto Sanga (*The AFC Hub YouTube*)
-- **12:15**: Johor Darul Ta'zim v Daejeon Hana (*The AFC Hub YouTube*)
-- **10:00**: Jeonbuk Hyundai Motors v Gamba Osaka (*The AFC Hub YouTube*)
-- **10:00**: FC Seoul v Melbourne Victory (*The AFC Hub YouTube*)
-- **10:00**: The Cong v Persib (*The AFC Hub YouTube*)
-- **12:15**: Port FC v Kashima Antlers (*The AFC Hub YouTube*)
-- **10:00**: Adelaide United v BG Pathum United (*The AFC Hub YouTube*)
-- **10:00**: FC Machida Zelvia v Tampines Rovers (*The AFC Hub YouTube*)
-- **10:00**: LCS v Tai Po (*The AFC Hub YouTube*)
-- **10:00**: Shanghai Shenhua v Svay Rieng (*The AFC Hub YouTube*)
-- **12:15**: Kitchee FC v Kuching (*The AFC Hub YouTube*)
-- **12:15**: Phnom Penh Crown v Gangwon (*The AFC Hub YouTube*)
-- **19:45**: Limavady United v Coleraine (*BBC iPlayerBBC Sport Website*)
-- **13:45**: Pakhtakor v Tractor (*The AFC Hub YouTube*)
-- **16:00**: Al Wasl v Al-Ittihad (*The AFC Hub YouTube*)
-- **16:00**: Al-Qadisiyah v Al-Shamal (*The AFC Hub YouTube*)
-- **18:15**: Al Sadd v Al-Quwa Al-Jawiya (*The AFC Hub YouTube*)
-- **18:15**: Al-Hilal v Al Ain (*The AFC Hub YouTube*)
-- **18:15**: Esteghlal v Neftchi Fergana (*The AFC Hub YouTube*)
-- **16:00**: Al Gharafa v Al-Nassr (*The AFC Hub YouTube*)
-- **16:00**: Al Hussein v Al-Seeb (*The AFC Hub YouTube*)
-- **16:00**: Al-Shorta v East Bengal (*The AFC Hub YouTube*)
-- **18:15**: Al Ahli SC v Shabab Al Ahli (*The AFC Hub YouTube*)
-- **13:45**: Arkadag v Al Jazira (*The AFC Hub YouTube*)
-- **13:45**: Gol Gohar v Muharraq (*The AFC Hub YouTube*)
-- **16:00**: Al Rayyan v Al-Taawoun (*The AFC Hub YouTube*)
-- **16:00**: Al Wahda v Nasaf (*The AFC Hub YouTube*)
-- **16:00**: Al-Nahda v Al-Faisaly (*The AFC Hub YouTube*)
-- **16:00**: Khalidiya v Kuwait (*The AFC Hub YouTube*)
-- **19:45**: Bangor v Linfield (*BBC iPlayerBBC Sport Website*)
-- **12:30**: Birmingham City v West Ham United (*ITV1STVSky Sports FootballITVXSTV Player*)
-- **12:45**: Cambrian United v Haverfordwest County (*BBC iPlayerS4C OnlineCymru Football TVBBC Sport Website*)
-- **18:00**: Linfield v Cliftonville (*BBC iPlayerBBC Sport Website*)
-- **12:00**: Durham Women v Ipswich Town Women (*WSL2 YouTube*)
-- **14:00**: Newcastle United Women v Watford Women (*WSL2 YouTube*)
-- **14:00**: Sheffield United Women v Sunderland AFC Women (*WSL2 YouTube*)
-- **14:00**: Southampton Women v Wolves Women (*WSL2 YouTube*)
-- **15:00**: Leicester City Women v Burnley Women (*WSL2 YouTube*)
-- **17:00**: Bristol City Women v Nottingham Forest Women (*WSL2 YouTube*)
-- **12:45**: Trefelin BGC v Briton Ferry (*BBC iPlayerS4C OnlineCymru Football TVBBC Sport Website*)
-- **19:45**: Linfield v Coleraine (*BBC iPlayerBBC Sport Website*)
-- **17:15**: Colwyn Bay v Caernarfon Town (*S4CBBC iPlayerS4C OnlineCymru Football TVBBC Sport Website*)
-- **18:00**: Glentoran v Cliftonville (*BBC iPlayerBBC Sport Website*)
+- **19:30**: Bayern Munich v Union Berlin (Bundesliga) — *BBC iPlayerBundesliga YouTubeBBC Sport Website*
+- **19:30**: Queen's Park v Ayr United (Scottish Championship) — *BBC ScotlandBBC iPlayerBBC Sport Website*
+- **19:45**: Ammanford AFC v Penybont (Cymru Premier) — *BBC iPlayerS4C OnlineCymru Football TVBBC Sport Website*
+- **19:45**: Derry City v Galway United (League of Ireland Premier Division) — *BBC iPlayerLOITVBBC Sport Website*
+- **19:45**: Dundalk v Shelbourne (League of Ireland Premier Division) — *LOITV*
+- **20:00**: Bohemians v Drogheda United (League of Ireland Premier Division) — *LOITV*
+- **20:00**: Shamrock Rovers v Waterford (League of Ireland Premier Division) — *LOITV*
+- **12:30**: Redcar Town v Darlington (FA Cup Second Qualifying Round) — *BBC Red ButtonBBC iPlayerBBC Football YouTubeBBC Sport Website*
+- **12:30**: Charlton Athletic Women v London City Lionesses (Women's Super League) — *BBC OneBBC One NIBBC iPlayerWSL YouTubeBBC Sport Website*
+- **17:30**: The New Saints v Llandudno (Cymru Premier) — *BBC iPlayerCymru Football TVBBC Sport Website*
+- **19:45**: Sligo Rovers v St Patrick's Athletic (League of Ireland Premier Division) — *LOITV*
+- **16:10**: Rangers Women v Aberdeen Women (SWPL1) — *BBC AlbaBBC iPlayerBBC Sport Website*
+- **19:45**: Portugal v Wales (UEFA Nations League Group Stage) — *BBC TBCS4CBBC iPlayerS4C OnlineBBC Sport Website*
+- **17:00**: Georgia v Northern Ireland (UEFA Nations League Group Stage) — *BBC TBCBBC iPlayerBBC Sport Website*
+- **19:45**: Galway United v Shelbourne (League of Ireland Premier Division) — *LOITV*
+- **13:30**: Charlton Athletic Women v Manchester City Women (Women's Super League) — *BBC iPlayerBBC Sport Website*
+- **14:00**: Slovenia v Scotland (UEFA Nations League Group Stage) — *BBC TBCBBC iPlayerBBC Sport Website*
+- **19:45**: England v Spain (UEFA Nations League Group Stage) — *ITV1STVITVXSTV Player*
+- **16:10**: Hearts Women v Glasgow City (SWPL1) — *BBC AlbaBBC iPlayerBBC Sport Website*
+- **17:00**: Denmark v Wales (UEFA Nations League Group Stage) — *BBC TBCS4CBBC iPlayerS4C OnlineBBC Sport Website*
+- **19:45**: Northern Ireland v Hungary (UEFA Nations League Group Stage) — *BBC TBCBBC iPlayerBBC Sport Website*
+- **19:45**: Czech Republic v England (UEFA Nations League Group Stage) — *ITV1STVITVXSTV Player*
+- **19:45**: Scotland v Switzerland (UEFA Nations League Group Stage) — *BBC TBCBBC iPlayerBBC Sport Website*
+- **19:45**: Wales v Norway (UEFA Nations League Group Stage) — *BBC TBCS4CBBC iPlayerS4C OnlineBBC Sport Website*
+- **19:45**: Ukraine v Northern Ireland (UEFA Nations League Group Stage) — *BBC TBCBBC iPlayerBBC Sport Website*
+- **13:30**: Manchester United Women v Liverpool Women (Women's Super League) — *BBC OneBBC iPlayerBBC Sport Website*
+- **17:00**: Croatia v England (UEFA Nations League Group Stage) — *ITV1STVITVXSTV Player*
+- **17:30**: Hamilton Academical v Peterhead (Scottish League One) — *BBC AlbaBBC iPlayerBBC Sport Website*
+- **19:45**: North Macedonia v Scotland (UEFA Nations League Group Stage) — *BBC TBCBBC iPlayerBBC Sport Website*
+- **TBC**: Partick Thistle Women v Rangers Women (SWPL1) — *BBC iPlayerBBC Sport Website*
+- **14:10**: Hibernian Women v Hearts Women (SWPL1) — *BBC AlbaBBC iPlayerBBC Sport Website*
+- **19:45**: Wales v Denmark (UEFA Nations League Group Stage) — *BBC TBCS4CBBC iPlayerS4C OnlineBBC Sport Website*
+- **19:45**: Northern Ireland v Georgia (UEFA Nations League Group Stage) — *BBC TBCBBC iPlayerBBC Sport Website*
+- **19:45**: England v Czech Republic (UEFA Nations League Group Stage) — *ITV1STVITVXSTV Player*
+- **19:45**: Scotland v Slovenia (UEFA Nations League Group Stage) — *BBC TBCBBC iPlayerBBC Sport Website*
+- **TBC**: Albania Women v Wales Women (FIFA Women's World Cup 2027 Play-Off 1st Leg) — *BBC TBCBBC iPlayerBBC Sport Website*
+- **TBC**: Greece Women v England Women (FIFA Women's World Cup 2027 Play-Off 1st Leg) — *ITV TBC*
+- **TBC**: Northern Ireland Women v Portugal Women (FIFA Women's World Cup 2027 Play-Off 1st Leg) — *BBC iPlayerBBC Sport Website*
+- **19:30**: Borussia Dortmund v Werder Bremen (Bundesliga) — *BBC iPlayerBBC Sport Website*
+- **19:45**: Derry City v St Patrick's Athletic (League of Ireland Premier Division) — *BBC iPlayerLOITVBBC Sport Website*
+- **19:45**: Dundalk v Bohemians (League of Ireland Premier Division) — *LOITV*
+- **19:45**: Shelbourne v Sligo Rovers (League of Ireland Premier Division) — *LOITV*
+- **19:45**: Waterford v Galway United (League of Ireland Premier Division) — *LOITV*
+- **20:00**: Shamrock Rovers v Drogheda United (League of Ireland Premier Division) — *LOITV*
+- **17:15**: Flint Town United v Colwyn Bay (Cymru Premier) — *BBC iPlayerS4C OnlineCymru Football TVBBC Sport Website*
+- **18:00**: Dungannon Swifts v Carrick Rangers (Northern Irish Premiership) — *BBC iPlayerBBC Sport Website*
+- **TBC**: England Women v Greece Women (FIFA Women's World Cup 2027 Play-Off 2nd Leg) — *ITV TBC*
+- **TBC**: Portugal Women v Northern Ireland Women (FIFA Women's World Cup 2027 Play-Off 2nd Leg) — *BBC iPlayerBBC Sport Website*
+- **TBC**: Wales Women v Albania Women (FIFA Women's World Cup 2027 Play-Off 2nd Leg) — *BBC TBCBBC iPlayerBBC Sport Website*
+- **19:30**: Eintracht Frankfurt v FC KÃ¶ln (Bundesliga) — *BBC iPlayerBBC Sport Website*
+- **19:30**: Ayr United v Partick Thistle (Scottish Championship) — *BBC ScotlandBBC iPlayerBBC Sport Website*
+- **19:45**: Bohemians v Waterford (League of Ireland Premier Division) — *LOITV*
+- **19:45**: Drogheda United v Derry City (League of Ireland Premier Division) — *LOITV*
+- **19:45**: Galway United v Shamrock Rovers (League of Ireland Premier Division) — *LOITV*
+- **19:45**: St Patrick's Athletic v Shelbourne (League of Ireland Premier Division) — *LOITV*
+- **19:45**: Larne v Coleraine (Northern Irish Premiership) — *BBC iPlayerBBC Sport Website*
+- **19:45**: Sligo Rovers v Dundalk (League of Ireland Premier Division) — *LOITV*
+- **14:30**: Manchester City Women v Brighton & Hove Albion Women (Women's Super League) — *BBC TwoBBC iPlayerBBC Sport Website*
+- **19:30**: VfB Stuttgart v Borussia MÃ¶nchengladbach (Bundesliga) — *BBC iPlayerBBC Sport Website*
+- **19:45**: Bohemians v Shelbourne (League of Ireland Premier Division) — *LOITV*
+- **19:45**: Derry City v Dundalk (League of Ireland Premier Division) — *BBC iPlayerLOITVBBC Sport Website*
+- **19:45**: Galway United v St Patrick's Athletic (League of Ireland Premier Division) — *LOITV*
+- **19:45**: Waterford v Drogheda United (League of Ireland Premier Division) — *LOITV*
+- **19:45**: Portadown v Linfield (Northern Irish Premiership) — *BBC iPlayerBBC Sport Website*
+- **20:00**: Shamrock Rovers v Sligo Rovers (League of Ireland Premier Division) — *LOITV*
+- **12:45**: Tottenham Hotspur Women v Arsenal Women (Women's Super League) — *BBC OneBBC iPlayerBBC Sport Website*
+- **17:15**: Barry Town United v Haverfordwest County (Cymru Premier) — *BBC iPlayerS4C OnlineCymru Football TVBBC Sport Website*
+- **19:30**: SV Elversberg v Mainz (Bundesliga) — *BBC iPlayerBBC Sport Website*
+- **19:45**: Drogheda United v Galway United (League of Ireland Premier Division) — *LOITV*
+- **19:45**: Dundalk v Shamrock Rovers (League of Ireland Premier Division) — *LOITV*
+- **19:45**: Shelbourne v Waterford (League of Ireland Premier Division) — *LOITV*
+- **19:45**: Sligo Rovers v Derry City (League of Ireland Premier Division) — *LOITV*
+- **19:45**: St Patrick's Athletic v Bohemians (League of Ireland Premier Division) — *LOITV*
+- **19:45**: Coleraine v Glentoran (Northern Irish Premiership) — *BBC iPlayerBBC Sport Website*
+- **17:15**: The New Saints v Connah's Quay Nomads (Cymru Premier) — *BBC iPlayerS4C OnlineCymru Football TVBBC Sport Website*
+- **14:30**: Charlton Athletic Women v Chelsea Women (Women's Super League) — *BBC TwoBBC iPlayerWSL YouTubeBBC Sport Website*
+- **19:30**: Hamburg v Borussia MÃ¶nchengladbach (Bundesliga) — *BBC iPlayerBBC Sport Website*
+- **18:00**: Linfield v Coleraine (Northern Irish Premiership) — *BBC iPlayerBBC Sport Website*
+- **19:45**: England v Croatia (UEFA Nations League Group Stage) — *ITV1STVITVXSTV Player*
+- **19:45**: Scotland v North Macedonia (UEFA Nations League Group Stage) — *BBC TBCBBC iPlayerBBC Sport Website*
+- **17:00**: Norway v Wales (UEFA Nations League Group Stage) — *BBC TBCS4CBBC iPlayerS4C OnlineBBC Sport Website*
+- **19:45**: Northern Ireland v Ukraine (UEFA Nations League Group Stage) — *BBC TBCBBC iPlayerBBC Sport Website*
+- **19:45**: Spain v England (UEFA Nations League Group Stage) — *ITV1STVITVXSTV Player*
+- **19:45**: Switzerland v Scotland (UEFA Nations League Group Stage) — *BBC TBCBBC iPlayerBBC Sport Website*
+- **19:45**: Hungary v Northern Ireland (UEFA Nations League Group Stage) — *BBC TBCBBC iPlayerBBC Sport Website*
+- **19:45**: Wales v Portugal (UEFA Nations League Group Stage) — *BBC TBCS4CBBC iPlayerS4C OnlineBBC Sport Website*
+- **19:30**: Bayern Munich v FC KÃ¶ln (Bundesliga) — *BBC iPlayerBBC Sport Website*
+- **19:45**: Cliftonville v Glentoran (Northern Irish Premiership) — *BBC iPlayerBBC Sport Website*
+- **19:30**: Werder Bremen v Borussia MÃ¶nchengladbach (Bundesliga) — *BBC iPlayerBBC Sport Website*
+- **19:45**: Glentoran v Larne (Northern Irish Premiership) — *BBC iPlayerBBC Sport Website*
+- **17:15**: Holywell Town v Llandudno (Cymru Premier) — *BBC iPlayerS4C OnlineCymru Football TVBBC Sport Website*
+- **19:45**: Limavady United v Coleraine (Northern Irish Premiership) — *BBC iPlayerBBC Sport Website*
+- **19:45**: Bangor v Linfield (Northern Irish Premiership) — *BBC iPlayerBBC Sport Website*
+- **12:45**: Cambrian United v Haverfordwest County (Cymru Premier) — *BBC iPlayerS4C OnlineCymru Football TVBBC Sport Website*
+- **18:00**: Linfield v Cliftonville (Northern Irish Premiership) — *BBC iPlayerBBC Sport Website*
+- **12:45**: Trefelin BGC v Briton Ferry (Cymru Premier) — *BBC iPlayerS4C OnlineCymru Football TVBBC Sport Website*
+- **19:45**: Linfield v Coleraine (Northern Irish Premiership) — *BBC iPlayerBBC Sport Website*
+- **17:15**: Colwyn Bay v Caernarfon Town (Cymru Premier) — *S4CBBC iPlayerS4C OnlineCymru Football TVBBC Sport Website*
+- **18:00**: Glentoran v Cliftonville (Northern Irish Premiership) — *BBC iPlayerBBC Sport Website*
