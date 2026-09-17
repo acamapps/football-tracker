@@ -1,5 +1,5 @@
-# Today's UK Free-To-Air Football Schedule
-_Last updated: 17 September 2026, 20:17 UK Time_
+# UK Free-To-Air Football ⚽
+## 📅 Schedule for: Thursday, 17 September 2026
+_Last checked: 17 September 2026 at 20:39 UK Time_
 
-
-No free-to-air UK matches remaining for today.
+No remaining free-to-air UK matches listed for today.
