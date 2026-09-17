@@ -68,7 +68,7 @@ def run_scraper():
         
     formatted_time = uk_time.strftime("%d %B %Y, %H:%M UK Time")
     
-    output = f"# Today's UK Free-To-Air Football Schedule\n"
+    output = f"# Today's Football!\n"
     output += f"_Last updated: {formatted_time}_\n\n"
     
     match_groups = soup.find_all(['div'], class_=['fixture__date', 'fixture'])
