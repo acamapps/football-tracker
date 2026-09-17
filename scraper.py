@@ -16,15 +16,10 @@ UK_FREE_ALLOWLIST = [
 ]
 
 def parse_broadcasters(channel_div):
-    """
-    Extracts individual channel tags separately to add clean comma spacing,
-    filtering out non-free/YouTube channels.
-    """
     if not channel_div:
         return []
     
     raw_channels = [c.get_text(strip=True) for c in channel_div.find_all(['span', 'a', 'li'])]
-    
     if not raw_channels:
         raw_channels = [channel_div.get_text(strip=True)]
         
@@ -40,10 +35,6 @@ def parse_broadcasters(channel_div):
     return free_found
 
 def time_to_minutes(time_str):
-    """
-    Converts 'HH:MM' string to total minutes from midnight for direct numerical comparison.
-    Returns -1 if parsing fails.
-    """
     try:
         parts = time_str.strip().split(":")
         return int(parts[0]) * 60 + int(parts[1])
@@ -66,28 +57,23 @@ def run_scraper():
     else:
         uk_time = datetime.datetime.now()
         
-    formatted_time = uk_time.strftime("%d %B %Y, %H:%M UK Time")
+    formatted_date = uk_time.strftime("%A, %d %B %Y")
+    formatted_timestamp = uk_time.strftime("%d %B %Y at %H:%M UK Time")
     
-    output = f"# Today's Football!\n"
-    output += f"_Last updated: {formatted_time}_\n\n"
+    output = f"# UK Free-To-Air Football ⚽\n"
+    output += f"## 📅 Schedule for: {formatted_date}\n"
+    output += f"_Last checked: {formatted_timestamp}_\n\n"
     
     match_groups = soup.find_all(['div'], class_=['fixture__date', 'fixture'])
     
     total_matches_found = 0
     previous_minutes = -1
-    date_header_printed = False
 
     for elem in match_groups:
         classes = elem.get('class', [])
         
-        # Capture Date Header text if available
-        if 'fixture__date' in classes and not date_header_printed:
-            date_text = elem.get_text(strip=True)
-            output += f"### 📅 {date_text}\n\n"
-            date_header_printed = True
-
-        # Capture Match Block
-        elif 'fixture' in classes:
+        # Stop collecting when date header changes or match times roll over
+        if 'fixture' in classes:
             time_div = elem.find("div", class_="fixture__time")
             if not time_div:
                 continue
@@ -95,12 +81,10 @@ def run_scraper():
             time_str = time_div.get_text(strip=True)
             current_minutes = time_to_minutes(time_str)
             
-            # STOP TRIGGER: If current time is earlier than previous time, we hit the next day
             if previous_minutes != -1 and current_minutes < previous_minutes:
                 print(f"Time rollover detected ({time_str} after previous match). Stopping scrape.")
                 break
             
-            # Update previous time check if valid time found
             if current_minutes != -1:
                 previous_minutes = current_minutes
 
@@ -119,7 +103,7 @@ def run_scraper():
                 total_matches_found += 1
 
     if total_matches_found == 0:
-        output += "\nNo free-to-air UK matches remaining for today.\n"
+        output += "No remaining free-to-air UK matches listed for today.\n"
 
     with open("README.md", "w", encoding="utf-8") as f:
         f.write(output)
