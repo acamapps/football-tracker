@@ -60,7 +60,7 @@ def run_scraper():
     formatted_date = uk_time.strftime("%A, %d %B %Y")
     formatted_timestamp = uk_time.strftime("%d %B %Y at %H:%M UK Time")
     
-    output = f"# UK Free-To-Air Football ⚽\n"
+    output = f"# Who's playing today? ⚽\n"
     output += f"## 📅 Schedule for: {formatted_date}\n"
     output += f"_Last checked: {formatted_timestamp}_\n\n"
     
