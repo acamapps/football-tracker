@@ -2,27 +2,21 @@ import datetime
 import requests
 from bs4 import BeautifulSoup
 
-# Strictly UK Free-To-Air TV and Free Official Streaming channels
-# Using exact matches to prevent accidental matches on global streaming platforms
-STRICT_FREE_CHANNELS = [
-    "BBC One", "BBC Two", "BBC Three", "BBC Four", "BBC iPlayer", "BBC Red Button", "BBC Sport Website",
-    "ITV1", "ITV4", "ITVX", "ITV",
-    "Channel 4", "S4C", "STV", "STV Player",
-    "FreeSports", "Quest"
+# Strict Allowlist: Only match genuine UK Free-to-Air TV and official free streams
+UK_FREE_ALLOWLIST = [
+    "bbc one", "bbc two", "bbc three", "bbc four", "bbc iplayer", "bbc red button", "bbc sport",
+    "itv1", "itv4", "itvx", "itv",
+    "channel 4", "channel 5", "5action", "quest",
+    "s4c", "stv", "stv player", "freesports"
 ]
 
-def is_strictly_free(channel_text):
+def is_uk_free_to_air(channel_text):
     """
-    Checks if a channel string contains a genuine UK free-to-air broadcast,
-    while excluding generic or paid/international online services.
+    Returns True ONLY if the broadcast string contains a known UK free-to-air provider.
+    Any unknown streaming hub, pay-TV channel, or foreign stream is ignored automatically.
     """
-    # Exclude common false positives like international hub channels
-    exclusions = ["NWSL+", "AFC Hub", "DAZN", "TNT", "Sky", "Premier Sports"]
-    for exc in exclusions:
-        if exc.lower() in channel_text.lower():
-            return False
-
-    return any(free_ch.lower() in channel_text.lower() for free_ch in STRICT_FREE_CHANNELS)
+    text_lower = channel_text.lower()
+    return any(allowed in text_lower for allowed in UK_FREE_ALLOWLIST)
 
 def run_scraper():
     url = "https://www.live-footballontv.com/"
@@ -38,23 +32,19 @@ def run_scraper():
     output = f"# UK Free-To-Air Football Schedule\n"
     output += f"_Last updated: {datetime.datetime.now().strftime('%d %B %Y, %H:%M UTC')}_\n\n"
     
-    # Target all container elements (date headers and fixture blocks)
     elements = soup.find_all(['div'], class_=['fixture__date', 'fixture'])
     
-    current_date = "Upcoming Matches"
-    date_has_matches = False
     total_matches_found = 0
 
     for elem in elements:
         classes = elem.get('class', [])
         
-        # When we encounter a Date Header
+        # Capture Date Headers
         if 'fixture__date' in classes:
             current_date = elem.get_text(strip=True)
-            output += f"### 📅 {current_date}\n"
-            date_has_matches = False
+            output += f"\n### 📅 {current_date}\n"
 
-        # When we encounter a Match Block
+        # Capture Match Block
         elif 'fixture' in classes:
             teams = elem.find("div", class_="fixture__teams")
             channel = elem.find("div", class_="fixture__channel")
@@ -64,19 +54,18 @@ def run_scraper():
             if teams and channel:
                 channel_text = channel.get_text(strip=True)
                 
-                if is_strictly_free(channel_text):
+                # Check against strictly defined UK Free Allowlist
+                if is_uk_free_to_air(channel_text):
                     match_time = time.get_text(strip=True) if time else "TBD"
                     team_text = teams.get_text(strip=True)
                     comp_text = f" ({competition.get_text(strip=True)})" if competition else ""
                     
                     output += f"- **{match_time}**: {team_text}{comp_text} — *{channel_text}*\n"
-                    date_has_matches = True
                     total_matches_found += 1
 
     if total_matches_found == 0:
-        output += "No upcoming free-to-air UK matches found listed on the page at this time.\n"
+        output += "\nNo upcoming free-to-air UK matches listed at this time.\n"
 
-    # Write organized schedule back to README.md
     with open("README.md", "w", encoding="utf-8") as f:
         f.write(output)
 
