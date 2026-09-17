@@ -23,10 +23,8 @@ def parse_broadcasters(channel_div):
     if not channel_div:
         return []
     
-    # Extract text from individual sub-elements or split by standard tags
     raw_channels = [c.get_text(strip=True) for c in channel_div.find_all(['span', 'a', 'li'])]
     
-    # Fallback if no sub-tags exist inside the channel div
     if not raw_channels:
         raw_channels = [channel_div.get_text(strip=True)]
         
@@ -40,6 +38,17 @@ def parse_broadcasters(channel_div):
                 free_found.append(ch)
                 
     return free_found
+
+def time_to_minutes(time_str):
+    """
+    Converts 'HH:MM' string to total minutes from midnight for direct numerical comparison.
+    Returns -1 if parsing fails.
+    """
+    try:
+        parts = time_str.strip().split(":")
+        return int(parts[0]) * 60 + int(parts[1])
+    except (ValueError, IndexError):
+        return -1
 
 def run_scraper():
     url = "https://www.live-footballontv.com/"
@@ -59,48 +68,58 @@ def run_scraper():
         
     formatted_time = uk_time.strftime("%d %B %Y, %H:%M UK Time")
     
-    output = f"# UK Free-To-Air Football Schedule\n"
+    output = f"# Today's UK Free-To-Air Football Schedule\n"
     output += f"_Last updated: {formatted_time}_\n\n"
     
-    # Locate main match grouping containers
     match_groups = soup.find_all(['div'], class_=['fixture__date', 'fixture'])
     
     total_matches_found = 0
-    current_date_header = ""
-    matches_in_current_date = 0
+    previous_minutes = -1
+    date_header_printed = False
 
     for elem in match_groups:
         classes = elem.get('class', [])
         
-        # When a Date Header is encountered
-        if 'fixture__date' in classes:
-            current_date_header = elem.get_text(strip=True)
-            output += f"\n### 📅 {current_date_header}\n\n"
-            matches_in_current_date = 0
+        # Capture Date Header text if available
+        if 'fixture__date' in classes and not date_header_printed:
+            date_text = elem.get_text(strip=True)
+            output += f"### 📅 {date_text}\n\n"
+            date_header_printed = True
 
-        # When a Match Entry is encountered
+        # Capture Match Block
         elif 'fixture' in classes:
+            time_div = elem.find("div", class_="fixture__time")
+            if not time_div:
+                continue
+                
+            time_str = time_div.get_text(strip=True)
+            current_minutes = time_to_minutes(time_str)
+            
+            # STOP TRIGGER: If current time is earlier than previous time, we hit the next day
+            if previous_minutes != -1 and current_minutes < previous_minutes:
+                print(f"Time rollover detected ({time_str} after previous match). Stopping scrape.")
+                break
+            
+            # Update previous time check if valid time found
+            if current_minutes != -1:
+                previous_minutes = current_minutes
+
             teams = elem.find("div", class_="fixture__teams")
             channel_div = elem.find("div", class_="fixture__channel")
-            time = elem.find("div", class_="fixture__time")
             competition = elem.find("div", class_="fixture__competition")
             
             free_channels = parse_broadcasters(channel_div)
             
             if teams and free_channels:
-                match_time = time.get_text(strip=True) if time else "TBD"
                 team_text = teams.get_text(strip=True)
                 comp_text = f" ({competition.get_text(strip=True)})" if competition else ""
-                
-                # Format channels into a clean comma-separated list
                 channel_str = ", ".join(free_channels)
                 
-                output += f"- **{match_time}**: {team_text}{comp_text}\n  *Broadcaster(s): {channel_str}*\n\n"
-                matches_in_current_date += 1
+                output += f"- **{time_str}**: {team_text}{comp_text}\n  *Broadcaster(s): {channel_str}*\n\n"
                 total_matches_found += 1
 
     if total_matches_found == 0:
-        output += "\nNo upcoming free-to-air UK matches listed at this time.\n"
+        output += "\nNo free-to-air UK matches remaining for today.\n"
 
     with open("README.md", "w", encoding="utf-8") as f:
         f.write(output)
