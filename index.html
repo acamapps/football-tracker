@@ -27,6 +27,7 @@
         h2 { color: #28a745; border-bottom: 2px solid #e1e4e8; padding-bottom: 8px; font-size: 1.25em; }
         ul { padding-left: 20px; }
         li { margin-bottom: 12px; }
+
         /* Fixture Names (Team A vs Team B) in Blue */
         #content h3, 
         #content strong:first-child {
@@ -64,7 +65,18 @@ async function fetchSchedule() {
         if (!response.ok) throw new Error(`HTTP error! Status: ${response.status}`);
         
         const markdownText = await response.text();
-        container.innerHTML = marked.parse(markdownText);
+        
+        // 1. Convert markdown to HTML
+        let htmlContent = marked.parse(markdownText);
+        
+        // 2. Wrap "Broadcaster(s):" text in the maroon block tag
+        htmlContent = htmlContent.replace(
+            /(Broadcaster\(s\):.*?)(?=<\/li>|<\/p>|<br\s*\/?>|$)/gi, 
+            '<span class="broadcaster-line">$1</span>'
+        );
+
+        // 3. Render styled HTML
+        container.innerHTML = htmlContent;
     } catch (error) {
         console.error('Fetch error:', error);
         container.innerHTML = `<p style="color: red;"><strong>Failed to load schedule.</strong></p>`;
