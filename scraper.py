@@ -26,7 +26,7 @@ def parse_broadcasters(channel_div):
     free_found = []
     for ch in raw_channels:
         ch_lower = ch.lower()
-        if "youtube" in ch_lower:
+        if "youtube" in ch_lower or "loitv" in ch_lower:
             continue
         if any(allowed in ch_lower for allowed in UK_FREE_ALLOWLIST):
             if ch not in free_found:
