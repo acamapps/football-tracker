@@ -1,6 +1,6 @@
 # Who's playing? ⚽
 ## 📅 Schedule for: Friday, 18 September 2026
-_Last checked: 18 September 2026 at 17:06 UK Time_
+_Last checked: 18 September 2026 at 17:08 UK Time_
 
 - **19:30**: Bayern Munich v Union Berlin (Bundesliga)
   *Broadcaster(s): BBC iPlayer, BBC Sport Website*
