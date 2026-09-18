@@ -2,8 +2,8 @@ name: Daily Football Scraper
 
 on:
   schedule:
-    # Runs at 04:17 UTC (5:17 AM UK time) to dodge top-of-the-hour queue bottlenecks
-    - cron: '17 4 * * *'
+    # Runs at 01:17 UTC (2:17 AM UK time) to dodge top-of-the-hour queue bottlenecks
+    - cron: '17 1 * * *'
   workflow_dispatch:
 
 permissions:
