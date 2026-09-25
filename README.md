@@ -1,7 +1,7 @@
 # Who's playing? ⚽
-## 📅 Schedule for: Thursday, 24 September 2026
-_Last checked: 24 September 2026 at 07:12 UK Time_
+## 📅 Schedule for: Friday, 25 September 2026
+_Last checked: 25 September 2026 at 07:11 UK Time_
 
-- **19:45**: Portugal v Wales (UEFA Nations League Group Stage)
-  *Broadcaster(s): BBC One Wales, BBC Two, S4C, BBC iPlayer, S4C Online, BBC Sport Website*
+- **17:00**: Georgia v Northern Ireland (UEFA Nations League Group Stage)
+  *Broadcaster(s): BBC Two, BBC iPlayer, BBC Sport Website*
 
