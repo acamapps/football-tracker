@@ -1,6 +1,6 @@
 # Who's playing? ⚽
-## 📅 Schedule for: Sunday, 27 September 2026
-_Last checked: 27 September 2026 at 07:38 UK Time_
+## 📅 Schedule for: Monday, 28 September 2026
+_Last checked: 28 September 2026 at 07:59 UK Time_
 
 - **16:10**: Hearts Women v Glasgow City (SWPL1)
   *Broadcaster(s): BBC iPlayer, BBC Sport Website*
