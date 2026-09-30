@@ -1,7 +1,5 @@
 # Who's playing? ⚽
-## 📅 Schedule for: Tuesday, 29 September 2026
-_Last checked: 29 September 2026 at 07:58 UK Time_
+## 📅 Schedule for: Wednesday, 30 September 2026
+_Last checked: 30 September 2026 at 07:46 UK Time_
 
-- **19:45**: Northern Ireland v Hungary (UEFA Nations League Group Stage)
-  *Broadcaster(s): BBC One NI, BBC Three, BBC iPlayer, BBC Sport Website*
-
+No remaining free-to-air UK matches listed for today.
