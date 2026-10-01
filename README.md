@@ -1,5 +1,7 @@
 # Who's playing? ⚽
-## 📅 Schedule for: Wednesday, 30 September 2026
-_Last checked: 30 September 2026 at 07:46 UK Time_
+## 📅 Schedule for: Thursday, 01 October 2026
+_Last checked: 01 October 2026 at 08:12 UK Time_
 
-No remaining free-to-air UK matches listed for today.
+- **19:45**: Wales v Norway (UEFA Nations League Group Stage)
+  *Broadcaster(s): BBC Two, S4C, BBC iPlayer, S4C Online, BBC Sport Website*
+
