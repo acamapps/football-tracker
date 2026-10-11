@@ -1,7 +1,7 @@
 # Who's playing? ⚽
-## 📅 Schedule for: Saturday, 10 October 2026
-_Last checked: 10 October 2026 at 08:12 UK Time_
+## 📅 Schedule for: Sunday, 11 October 2026
+_Last checked: 11 October 2026 at 08:15 UK Time_
 
-- **17:15**: Flint Town United v Colwyn Bay (Cymru Premier)
-  *Broadcaster(s): BBC iPlayer, S4C Online, BBC Sport Website*
+- **12:00**: Southampton v Portsmouth (Championship)
+  *Broadcaster(s): ITV1, STV, ITVX, STV Player*
 
