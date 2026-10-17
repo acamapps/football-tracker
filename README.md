@@ -1,13 +1,10 @@
 # Who's playing? ⚽
-## 📅 Schedule for: Friday, 16 October 2026
-_Last checked: 16 October 2026 at 06:54 UK Time_
+## 📅 Schedule for: Saturday, 17 October 2026
+_Last checked: 17 October 2026 at 06:38 UK Time_
 
-- **19:30**: Eintracht Frankfurt v FC KÃ¶ln (Bundesliga)
-  *Broadcaster(s): BBC iPlayer, BBC Sport Website*
+- **12:30**: Bury v Harrogate Town (FA Cup Fourth Qualifying Round)
+  *Broadcaster(s): BBC Red Button, BBC iPlayer, BBC Sport Website*
 
-- **19:30**: Ayr United v Partick Thistle (Scottish Championship)
-  *Broadcaster(s): BBC Scotland, BBC iPlayer, BBC Sport Website*
-
-- **19:45**: Larne v Coleraine (Northern Irish Premiership)
+- **17:30**: Airdrieonians v Hamilton Academical (Scottish League One)
   *Broadcaster(s): BBC iPlayer, BBC Sport Website*
 
