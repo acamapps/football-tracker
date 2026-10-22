@@ -1,7 +1,5 @@
 # Who's playing? ⚽
-## 📅 Schedule for: Wednesday, 21 October 2026
-_Last checked: 21 October 2026 at 07:04 UK Time_
+## 📅 Schedule for: Thursday, 22 October 2026
+_Last checked: 22 October 2026 at 07:08 UK Time_
 
-- **19:35**: Glasgow City v Rangers Women (SWPL1)
-  *Broadcaster(s): BBC iPlayer, BBC Sport Website*
-
+No remaining free-to-air UK matches listed for today.
