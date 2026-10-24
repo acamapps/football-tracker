@@ -1,16 +1,13 @@
 # Who's playing? ⚽
-## 📅 Schedule for: Friday, 23 October 2026
-_Last checked: 23 October 2026 at 07:03 UK Time_
+## 📅 Schedule for: Saturday, 24 October 2026
+_Last checked: 24 October 2026 at 06:57 UK Time_
 
-- **19:30**: VfB Stuttgart v Borussia MÃ¶nchengladbach (Bundesliga)
+- **12:30**: Connah's Quay Nomads v Llandudno (Cymru Premier)
   *Broadcaster(s): BBC iPlayer, BBC Sport Website*
 
-- **19:30**: Penicuik Athletic v Clyde (Scottish Cup Second Round)
-  *Broadcaster(s): BBC iPlayer, BBC Sport Website*
+- **12:45**: Tottenham Hotspur Women v Arsenal Women (Women's Super League)
+  *Broadcaster(s): BBC One, BBC iPlayer, BBC Sport Website*
 
-- **19:45**: Derry City v Dundalk (League of Ireland Premier Division)
-  *Broadcaster(s): BBC iPlayer, BBC Sport Website*
-
-- **19:45**: Portadown v Linfield (Northern Irish Premiership)
-  *Broadcaster(s): BBC iPlayer, BBC Sport Website*
+- **17:15**: Barry Town United v Haverfordwest County (Cymru Premier)
+  *Broadcaster(s): BBC iPlayer, S4C Online, BBC Sport Website*
 
