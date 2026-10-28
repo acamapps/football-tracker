@@ -1,7 +1,7 @@
 # Who's playing? ⚽
-## 📅 Schedule for: Tuesday, 27 October 2026
-_Last checked: 27 October 2026 at 06:20 UK Time_
+## 📅 Schedule for: Wednesday, 28 October 2026
+_Last checked: 28 October 2026 at 06:53 UK Time_
 
-- **19:45**: Torino v Como (Serie A)
-  *Broadcaster(s): BBC iPlayer, BBC Sport Website*
+- **20:00**: Liverpool v Chelsea (Carabao Cup Round Four)
+  *Broadcaster(s): ITV1, STV, ITVX, STV Player*
 
