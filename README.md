@@ -1,7 +1,13 @@
 # Who's playing? ⚽
-## 📅 Schedule for: Thursday, 29 October 2026
-_Last checked: 29 October 2026 at 07:09 UK Time_
+## 📅 Schedule for: Friday, 30 October 2026
+_Last checked: 30 October 2026 at 07:12 UK Time_
 
-- **20:00**: Liverpool v Chelsea (Carabao Cup Round Four)
-  *Broadcaster(s): ITV1, STV, ITVX, STV Player*
+- **19:30**: SV Elversberg v Mainz (Bundesliga)
+  *Broadcaster(s): BBC iPlayer, BBC Sport Website*
+
+- **19:30**: Stenhousemuir v Livingston (Scottish Championship)
+  *Broadcaster(s): BBC Scotland, BBC iPlayer, BBC Sport Website*
+
+- **19:45**: Coleraine v Glentoran (Northern Irish Premiership)
+  *Broadcaster(s): BBC iPlayer, BBC Sport Website*
 
