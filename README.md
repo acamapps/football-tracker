@@ -1,13 +1,10 @@
 # Who's playing? ⚽
-## 📅 Schedule for: Friday, 30 October 2026
-_Last checked: 30 October 2026 at 07:12 UK Time_
+## 📅 Schedule for: Saturday, 31 October 2026
+_Last checked: 31 October 2026 at 07:01 UK Time_
 
-- **19:30**: SV Elversberg v Mainz (Bundesliga)
-  *Broadcaster(s): BBC iPlayer, BBC Sport Website*
+- **17:15**: The New Saints v Connah's Quay Nomads (Cymru Premier)
+  *Broadcaster(s): S4C, BBC iPlayer, S4C Online, BBC Sport Website*
 
-- **19:30**: Stenhousemuir v Livingston (Scottish Championship)
-  *Broadcaster(s): BBC Scotland, BBC iPlayer, BBC Sport Website*
-
-- **19:45**: Coleraine v Glentoran (Northern Irish Premiership)
-  *Broadcaster(s): BBC iPlayer, BBC Sport Website*
+- **19:45**: AC Milan v Inter Milan (Serie A)
+  *Broadcaster(s): BBC Two, BBC iPlayer, BBC Sport Website*
 
