@@ -1,7 +1,5 @@
 # Who's playing? ⚽
-## 📅 Schedule for: Sunday, 01 November 2026
-_Last checked: 01 November 2026 at 07:36 UK Time_
+## 📅 Schedule for: Monday, 02 November 2026
+_Last checked: 02 November 2026 at 07:42 UK Time_
 
-- **14:30**: Charlton Athletic Women v Chelsea Women (Women's Super League)
-  *Broadcaster(s): BBC Two, BBC iPlayer, BBC Sport Website*
-
+No remaining free-to-air UK matches listed for today.
