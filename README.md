@@ -1,10 +1,13 @@
 # Who's playing? ⚽
-## 📅 Schedule for: Friday, 06 November 2026
-_Last checked: 06 November 2026 at 07:57 UK Time_
+## 📅 Schedule for: Saturday, 07 November 2026
+_Last checked: 07 November 2026 at 07:14 UK Time_
 
-- **19:30**: Hamburg v Borussia MÃ¶nchengladbach (Bundesliga)
+- **17:30**: Altrincham v Notts County (FA Cup First Round)
+  *Broadcaster(s): BBC Two, BBC iPlayer, BBC Sport Website*
+
+- **18:00**: Linfield v Coleraine (Northern Irish Premiership)
   *Broadcaster(s): BBC iPlayer, BBC Sport Website*
 
-- **19:30**: Raith Rovers v Dunfermline (Scottish Championship)
-  *Broadcaster(s): BBC Scotland, BBC iPlayer, BBC Sport Website*
+- **19:45**: Roma v Sassuolo (Serie A)
+  *Broadcaster(s): BBC iPlayer, BBC Sport Website*
 
