@@ -1,5 +1,7 @@
 # Who's playing? ⚽
-## 📅 Schedule for: Wednesday, 11 November 2026
-_Last checked: 11 November 2026 at 07:46 UK Time_
+## 📅 Schedule for: Thursday, 12 November 2026
+_Last checked: 12 November 2026 at 08:23 UK Time_
 
-No remaining free-to-air UK matches listed for today.
+- **19:45**: England v Croatia (UEFA Nations League Group Stage)
+  *Broadcaster(s): ITV1, STV, ITVX, STV Player*
+
