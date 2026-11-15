@@ -1,19 +1,10 @@
 # Who's playing? ⚽
-## 📅 Schedule for: Saturday, 14 November 2026
-_Last checked: 14 November 2026 at 07:38 UK Time_
+## 📅 Schedule for: Sunday, 15 November 2026
+_Last checked: 15 November 2026 at 07:54 UK Time_
 
-- **13:30**: Chelsea Women v Manchester City Women (Women's Super League)
-  *Broadcaster(s): BBC One, BBC iPlayer, BBC Sport Website*
+- **17:35**: Cambrian United v Bangor 1876 (Welsh Cup Third Round)
+  *Broadcaster(s): S4C, BBC iPlayer, S4C Online, BBC Sport Website*
 
-- **14:10**: Hearts Women v Hibernian Women (SWPL1)
-  *Broadcaster(s): BBC iPlayer, BBC Sport Website*
-
-- **17:00**: Norway v Wales (UEFA Nations League Group Stage)
-  *Broadcaster(s): BBC Two, S4C, BBC iPlayer, S4C Online, BBC Sport Website*
-
-- **17:30**: Hamilton Academical v Ross County (Scottish League One)
-  *Broadcaster(s): BBC iPlayer, BBC Sport Website*
-
-- **19:45**: Northern Ireland v Ukraine (UEFA Nations League Group Stage)
-  *Broadcaster(s): BBC Two, BBC iPlayer, BBC Sport Website*
+- **19:45**: Spain v England (UEFA Nations League Group Stage)
+  *Broadcaster(s): ITV1, STV, ITVX, STV Player*
 
