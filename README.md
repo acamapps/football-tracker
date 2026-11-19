@@ -1,5 +1,7 @@
 # Who's playing? ⚽
-## 📅 Schedule for: Wednesday, 18 November 2026
-_Last checked: 18 November 2026 at 08:35 UK Time_
+## 📅 Schedule for: Thursday, 19 November 2026
+_Last checked: 19 November 2026 at 08:51 UK Time_
 
-No remaining free-to-air UK matches listed for today.
+- **20:00**: Arsenal Women v Lyon Women (Women's Champions League League Phase)
+  *Broadcaster(s): BBC Three, BBC iPlayer, BBC Sport Website*
+
