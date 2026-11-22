@@ -1,7 +1,13 @@
 # Who's playing? ⚽
-## 📅 Schedule for: Saturday, 21 November 2026
-_Last checked: 21 November 2026 at 08:19 UK Time_
+## 📅 Schedule for: Sunday, 22 November 2026
+_Last checked: 22 November 2026 at 08:02 UK Time_
 
-- **17:30**: Montrose v Alloa Athletic (Scottish League One)
-  *Broadcaster(s): BBC iPlayer, BBC Sport Website*
+- **12:00**: Burnley v Blackburn Rovers (Championship)
+  *Broadcaster(s): ITV1, STV, ITVX, STV Player*
+
+- **14:30**: Arsenal Women v West Ham United Women (Women's Super League)
+  *Broadcaster(s): BBC Two, BBC iPlayer, BBC Sport Website*
+
+- **17:15**: The New Saints Women v Wrexham Women (Genero Adran Premier)
+  *Broadcaster(s): BBC iPlayer, S4C Online, BBC Sport Website*
 
